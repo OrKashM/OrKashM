@@ -55,7 +55,8 @@ Depending on what you’re looking for, here are the main areas of my work 👇
 - Product decisions and technical trade-offs
 - Long-term vision, roadmap, and iteration
 
-👉 Repositories: `product-*`
+Example project:
+- [Medication Tracker](https://github.com/OrKashM/product-medication-tracker.git)
 
 ---
 
