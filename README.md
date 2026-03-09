@@ -66,7 +66,8 @@ Depending on what you’re looking for, here are the main areas of my work 👇
 - Visualization and data storytelling
 - Projects with both academic and product perspectives
 
-👉 Repositories: `sportsdata-*`
+Example project:
+- [Congo Footbal Analytics](https://github.com/OrKashM/congo-football-analytics.git)
 
 ---
 
